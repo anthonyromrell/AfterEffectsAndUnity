@@ -1,0 +1,76 @@
+fileFormatVersion: 2
+guid: dac34d7ef180244c29d6f43aada93e30
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: LizardTwoWeapon_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 678
+        width: 715
+        height: 321
+      alignment: 5
+      pivot: {x: 1, y: .5}
+    - name: LizardTwoWeapon_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 258
+        width: 148
+        height: 514
+      alignment: 9
+      pivot: {x: .5, y: .0826866627}
+    - name: LizardTwoWeapon_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 102
+        width: 474
+        height: 416
+      alignment: 9
+      pivot: {x: .241762891, y: .183340371}
+  spritePackingTag: 
+  userData: 
