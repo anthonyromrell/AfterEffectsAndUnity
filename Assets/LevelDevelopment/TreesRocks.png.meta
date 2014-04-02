@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 50795ab98d4854d4688ad4746178837c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SmallRock
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1516
+        width: 413
+        height: 237
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ShortestTree
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 749
+        width: 469
+        height: 1063
+      alignment: 9
+      pivot: {x: .504971206, y: .0350136235}
+    - name: TallestTree
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 10
+        width: 716
+        height: 2038
+      alignment: 9
+      pivot: {x: .496743828, y: .0194483381}
+    - name: BigRock0
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 401
+        width: 646
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigRock1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 12
+        width: 632
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Tree
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 578
+        height: 1439
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RockBase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1805
+        width: 1286
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
