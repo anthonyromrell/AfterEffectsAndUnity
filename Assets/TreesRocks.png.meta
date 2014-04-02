@@ -66,8 +66,8 @@ TextureImporter:
         y: 10
         width: 716
         height: 2038
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .496743828, y: .0194483381}
     - name: BigRock0
       rect:
         serializedVersion: 2
