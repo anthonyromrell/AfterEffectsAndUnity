@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 1aed5764c7d42b1448f9a8d11c972cbe
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: turtle_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 989
+        width: 1145
+        height: 467
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: turtle_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 865
+        width: 434
+        height: 309
+      alignment: 9
+      pivot: {x: .905522585, y: .534271359}
+    - name: turtle_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 755
+        width: 125
+        height: 153
+      alignment: 9
+      pivot: {x: .189879879, y: .514530778}
+    - name: turtle_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 768
+        width: 105
+        height: 128
+      alignment: 9
+      pivot: {x: -.74295187, y: .529382706}
+    - name: turtle_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 783
+        width: 96
+        height: 98
+      alignment: 9
+      pivot: {x: -1.59300673, y: .538927972}
+    - name: turtle_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 680
+        width: 442
+        height: 248
+      alignment: 9
+      pivot: {x: .148140892, y: .745428026}
+    - name: turtle_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 659
+        width: 286
+        height: 126
+      alignment: 9
+      pivot: {x: .893581688, y: .763981402}
+    - name: turtle_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 340
+        width: 377
+        height: 324
+      alignment: 9
+      pivot: {x: .174435243, y: .808937728}
+    - name: turtle_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 295
+        height: 565
+      alignment: 9
+      pivot: {x: .585411429, y: 1.04894471}
+    - name: turtle_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 21
+        width: 305
+        height: 555
+      alignment: 9
+      pivot: {x: .429238647, y: 1.06061971}
+    - name: turtle_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 416
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: turtle_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 19
+        width: 837
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: turtle_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 615
+        width: 382
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: turtle_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1385
+        width: 389
+        height: 92
+      alignment: 9
+      pivot: {x: .979681194, y: .384257436}
+    - name: turtle_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1215
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

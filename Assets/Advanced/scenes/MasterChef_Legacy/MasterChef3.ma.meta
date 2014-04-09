@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 8d5072fea1f5040fd921bdfd955c2114
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: diver1
+    100002: group14
+    100004: //RootNode
+    100006: polySurface17
+    100008: polySurface18
+    100010: polySurface28
+    100012: polySurface36
+    100014: polySurface40
+    100016: polySurface43
+    100018: polySurface45
+    100020: polySurface47
+    100022: polySurface48
+    100024: polySurface49
+    100026: polySurface50
+    100028: polySurface51
+    100030: polySurface52
+    100032: polySurface53
+    100034: polySurface54
+    100036: polySurface55
+    100038: polySurface56
+    100040: polySurface58
+    100042: polySurface59
+    100044: polySurface60
+    100046: polySurface61
+    100048: polySurface62
+    100050: polySurface63
+    100052: polySurface64
+    100054: polySurface65
+    100056: polySurface66
+    100058: polySurface67
+    100060: polySurface68
+    100062: polySurface69
+    100064: polySurface70
+    100066: polySurface71
+    100068: polySurface72
+    100070: polySurface73
+    100072: polySurface74
+    100074: polySurface75
+    100076: polySurface76
+    100078: polySurface77
+    100080: polySurface78
+    100082: polySurface79
+    100084: polySurface80
+    100086: polySurface81
+    100088: polySurface82
+    100090: polySurface83
+    100092: polySurface84
+    100094: transform1
+    100096: transform10
+    100098: transform11
+    100100: transform12
+    100102: transform13
+    100104: transform14
+    100106: transform15
+    100108: transform16
+    100110: transform17
+    100112: transform18
+    100114: transform19
+    100116: transform2
+    100118: transform20
+    100120: transform21
+    100122: transform22
+    100124: transform23
+    100126: transform24
+    100128: transform25
+    100130: transform26
+    100132: transform3
+    100134: transform4
+    100136: transform5
+    100138: transform6
+    100140: transform7
+    100142: transform8
+    100144: transform9
+    100146: Body_GRP
+    100148: HeadBody
+    100150: L_foot
+    100152: L_ForeArm
+    100154: L_Hand
+    100156: L_LowerLeg
+    100158: L_Shoulder
+    100160: L_UpperLeg
+    100162: L_Wrist
+    100164: Pelvis
+    100166: R_Foot
+    100168: R_ForeArm
+    100170: R_Hand
+    100172: R_LowerLeg
+    100174: R_Shoulder
+    100176: R_UpperLeg
+    100178: R_Wrist
+    100180: Root_GRP
+    100182: AllZBrushReady
+    400000: diver1
+    400002: group14
+    400004: //RootNode
+    400006: polySurface17
+    400008: polySurface18
+    400010: polySurface28
+    400012: polySurface36
+    400014: polySurface40
+    400016: polySurface43
+    400018: polySurface45
+    400020: polySurface47
+    400022: polySurface48
+    400024: polySurface49
+    400026: polySurface50
+    400028: polySurface51
+    400030: polySurface52
+    400032: polySurface53
+    400034: polySurface54
+    400036: polySurface55
+    400038: polySurface56
+    400040: polySurface58
+    400042: polySurface59
+    400044: polySurface60
+    400046: polySurface61
+    400048: polySurface62
+    400050: polySurface63
+    400052: polySurface64
+    400054: polySurface65
+    400056: polySurface66
+    400058: polySurface67
+    400060: polySurface68
+    400062: polySurface69
+    400064: polySurface70
+    400066: polySurface71
+    400068: polySurface72
+    400070: polySurface73
+    400072: polySurface74
+    400074: polySurface75
+    400076: polySurface76
+    400078: polySurface77
+    400080: polySurface78
+    400082: polySurface79
+    400084: polySurface80
+    400086: polySurface81
+    400088: polySurface82
+    400090: polySurface83
+    400092: polySurface84
+    400094: transform1
+    400096: transform10
+    400098: transform11
+    400100: transform12
+    400102: transform13
+    400104: transform14
+    400106: transform15
+    400108: transform16
+    400110: transform17
+    400112: transform18
+    400114: transform19
+    400116: transform2
+    400118: transform20
+    400120: transform21
+    400122: transform22
+    400124: transform23
+    400126: transform24
+    400128: transform25
+    400130: transform26
+    400132: transform3
+    400134: transform4
+    400136: transform5
+    400138: transform6
+    400140: transform7
+    400142: transform8
+    400144: transform9
+    400146: Body_GRP
+    400148: HeadBody
+    400150: L_foot
+    400152: L_ForeArm
+    400154: L_Hand
+    400156: L_LowerLeg
+    400158: L_Shoulder
+    400160: L_UpperLeg
+    400162: L_Wrist
+    400164: Pelvis
+    400166: R_Foot
+    400168: R_ForeArm
+    400170: R_Hand
+    400172: R_LowerLeg
+    400174: R_Shoulder
+    400176: R_UpperLeg
+    400178: R_Wrist
+    400180: Root_GRP
+    400182: AllZBrushReady
+    2300000: diver1
+    2300002: polySurface17
+    2300004: polySurface18
+    2300006: polySurface28
+    2300008: polySurface36
+    2300010: polySurface40
+    2300012: polySurface43
+    2300014: polySurface45
+    2300016: polySurface47
+    2300018: polySurface48
+    2300020: polySurface49
+    2300022: polySurface50
+    2300024: polySurface51
+    2300026: polySurface52
+    2300028: polySurface53
+    2300030: polySurface54
+    2300032: polySurface55
+    2300034: polySurface56
+    2300036: polySurface58
+    2300038: polySurface84
+    2300040: HeadBody
+    2300042: L_foot
+    2300044: L_ForeArm
+    2300046: L_Hand
+    2300048: L_LowerLeg
+    2300050: L_Shoulder
+    2300052: L_UpperLeg
+    2300054: L_Wrist
+    2300056: Pelvis
+    2300058: R_Foot
+    2300060: R_ForeArm
+    2300062: R_Hand
+    2300064: R_LowerLeg
+    2300066: R_Shoulder
+    2300068: R_UpperLeg
+    2300070: R_Wrist
+    2300072: AllZBrushReady
+    3300000: diver1
+    3300002: polySurface17
+    3300004: polySurface18
+    3300006: polySurface28
+    3300008: polySurface36
+    3300010: polySurface40
+    3300012: polySurface43
+    3300014: polySurface45
+    3300016: polySurface47
+    3300018: polySurface48
+    3300020: polySurface49
+    3300022: polySurface50
+    3300024: polySurface51
+    3300026: polySurface52
+    3300028: polySurface53
+    3300030: polySurface54
+    3300032: polySurface55
+    3300034: polySurface56
+    3300036: polySurface58
+    3300038: polySurface84
+    3300040: HeadBody
+    3300042: L_foot
+    3300044: L_ForeArm
+    3300046: L_Hand
+    3300048: L_LowerLeg
+    3300050: L_Shoulder
+    3300052: L_UpperLeg
+    3300054: L_Wrist
+    3300056: Pelvis
+    3300058: R_Foot
+    3300060: R_ForeArm
+    3300062: R_Hand
+    3300064: R_LowerLeg
+    3300066: R_Shoulder
+    3300068: R_UpperLeg
+    3300070: R_Wrist
+    3300072: AllZBrushReady
+    4300000: polySurface45
+    4300002: polySurface36
+    4300004: polySurface48
+    4300006: polySurface49
+    4300008: polySurface47
+    4300010: polySurface17
+    4300012: polySurface18
+    4300014: polySurface50
+    4300016: polySurface51
+    4300018: polySurface52
+    4300020: polySurface53
+    4300022: polySurface43
+    4300024: polySurface40
+    4300026: polySurface28
+    4300028: polySurface54
+    4300030: polySurface55
+    4300032: polySurface56
+    4300034: polySurface58
+    4300036: diver1
+    4300038: polySurface84
+    4300040: Pelvis
+    4300042: L_UpperLeg
+    4300044: L_LowerLeg
+    4300046: L_foot
+    4300048: R_UpperLeg
+    4300050: R_LowerLeg
+    4300052: R_Foot
+    4300054: HeadBody
+    4300056: R_Shoulder
+    4300058: R_Wrist
+    4300060: R_ForeArm
+    4300062: R_Hand
+    4300064: L_Shoulder
+    4300066: L_Wrist
+    4300068: L_ForeArm
+    4300070: L_Hand
+    4300072: AllZBrushReady
+    7400000: Idle
+    7400002: Walk
+    7400004: Fire
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: polySurface84
+        weight: 1
+      - path: Root_GRP
+        weight: 1
+      - path: Root_GRP/Body_GRP
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg/L_LowerLeg
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg/L_LowerLeg/L_foot
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg/R_LowerLeg
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg/R_LowerLeg/R_Foot
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist/L_ForeArm
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist/L_ForeArm/L_Hand
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist/R_ForeArm
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist/R_ForeArm/R_Hand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: polySurface84
+        weight: 1
+      - path: Root_GRP
+        weight: 1
+      - path: Root_GRP/Body_GRP
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg/L_LowerLeg
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg/L_LowerLeg/L_foot
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg/R_LowerLeg
+        weight: 1
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg/R_LowerLeg/R_Foot
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist/L_ForeArm
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist/L_ForeArm/L_Hand
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist/R_ForeArm
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist/R_ForeArm/R_Hand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: polySurface84
+        weight: 0
+      - path: Root_GRP
+        weight: 0
+      - path: Root_GRP/Body_GRP
+        weight: 0
+      - path: Root_GRP/Body_GRP/Pelvis
+        weight: 0
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg
+        weight: 0
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg/L_LowerLeg
+        weight: 0
+      - path: Root_GRP/Body_GRP/Pelvis/L_UpperLeg/L_LowerLeg/L_foot
+        weight: 0
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg
+        weight: 0
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg/R_LowerLeg
+        weight: 0
+      - path: Root_GRP/Body_GRP/Pelvis/R_UpperLeg/R_LowerLeg/R_Foot
+        weight: 0
+      - path: Root_GRP/Body_GRP/polySurface36
+        weight: 0
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody
+        weight: 0
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist/L_ForeArm
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/L_Shoulder/L_Wrist/L_ForeArm/L_Hand
+        weight: 1
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder
+        weight: 0
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist
+        weight: 0
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist/R_ForeArm
+        weight: 0
+      - path: Root_GRP/Body_GRP/polySurface36/HeadBody/R_Shoulder/R_Wrist/R_ForeArm/R_Hand
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
