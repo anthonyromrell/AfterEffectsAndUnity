@@ -6,19 +6,19 @@ using System.Collections.Generic;
 
 public class MoveCharacter : MonoBehaviour 
 {
-	public Transform myTransform;
+	public Transform myController;
 	public Transform myArt;
 	public Animator myAnim;
-	public float hInput;
+	private float hInput;
 	private string animName = "Walk";
-	public float speed = 5;
+	public float speed = 0.5f;
 	private bool flipped;
 
 	void Update () 
 	{
 		hInput = Input.GetAxis("Horizontal");
 		Vector3 _v = new Vector3(hInput*speed, 0, 0);
-		myTransform.position += _v;
+		myController.position += _v;
 
 		if(hInput <= -0.1f ) {
 			myAnim.SetFloat(animName, hInput);

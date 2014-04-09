@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LoadNewLevel.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveCharacter.cs">
     <Files>
       <File FileName="../InfernoFox/Assets/Extensions/IOS Native/xExample/Scripts/GameCenterExample.cs" Line="19" Column="61" />
       <File FileName="Assets/LoadNewLevel.cs" Line="11" Column="21" />
+      <File FileName="Assets/MoveCharacter.cs" Line="32" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
