@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CanCollide.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterAdvanced.cs">
     <Files>
-      <File FileName="Assets/CanCollide.cs" Line="8" Column="25" />
+      <File FileName="Assets/Scripts/Character.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CharacterAdvanced.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
