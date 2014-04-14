@@ -90,5 +90,14 @@ TextureImporter:
         height: 184
       alignment: 0
       pivot: {x: .5, y: .5}
+    - name: Fox
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 564
+        height: 814
+      alignment: 0
+      pivot: {x: .5, y: .5}
   spritePackingTag: 
   userData: 
