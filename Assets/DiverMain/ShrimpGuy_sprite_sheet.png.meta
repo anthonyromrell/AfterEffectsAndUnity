@@ -85,7 +85,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1727
-        y: 1671
+        y: 1673
         width: 314
         height: 370
       alignment: 9
@@ -116,7 +116,7 @@ TextureImporter:
         width: 498
         height: 588
       alignment: 9
-      pivot: {x: .326775283, y: .226404309}
+      pivot: {x: .627959311, y: .678267896}
     - name: Torso
       rect:
         serializedVersion: 2
@@ -151,8 +151,8 @@ TextureImporter:
         y: 39
         width: 321
         height: 356
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .366497964, y: .831036627}
     - name: BackFist
       rect:
         serializedVersion: 2
@@ -174,12 +174,12 @@ TextureImporter:
     - name: FrontFoot
       rect:
         serializedVersion: 2
-        x: 1565
-        y: 267
+        x: 1567
+        y: 271
         width: 448
         height: 238
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .251292914, y: .671056807}
     - name: BackFoot
       rect:
         serializedVersion: 2
@@ -187,7 +187,7 @@ TextureImporter:
         y: 19
         width: 452
         height: 238
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .248754457, y: .662053645}
   spritePackingTag: 
   userData: 
