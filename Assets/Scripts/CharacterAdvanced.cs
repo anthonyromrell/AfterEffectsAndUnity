@@ -16,6 +16,7 @@ public class CharacterAdvanced : MonoBehaviour {
 	
 	void Update () 
 	{
+		myAnim.SetLayerWeight(1, 1);
 		if(myController.isGrounded) {
 			hInput = Input.GetAxis("Horizontal");
 			moveDirection = new Vector3(hInput*speed, 0, 0);
