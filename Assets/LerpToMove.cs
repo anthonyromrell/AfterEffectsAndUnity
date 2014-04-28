@@ -19,14 +19,12 @@ public class LerpToMove : MonoBehaviour
 	}
 	
 	void OnMouseUp () {
-		oldPosition = myObj.position;
 		screenPoint = Camera.main.WorldToScreenPoint(scanPos);
 		Vector3 curScreenPoint = new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z);
 		newPosition = Camera.main.ScreenToWorldPoint(curScreenPoint); //+ offset;
-
 	}
 	
 	void Update() {
-		myObj.position = Vector3.Lerp(myObj.position, newPosition, Time.deltaTime*speed);
+		myObj.position = Vector3.MoveTowards(myObj.position, newPosition, Time.deltaTime*speed);
 	}
 }
