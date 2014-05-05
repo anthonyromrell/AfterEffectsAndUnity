@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 123a833d2638d464b99542fe3984638e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: pipes
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1595
+        width: 326
+        height: 440
+      alignment: 9
+      pivot: {x: .907656908, y: .82323277}
+    - name: FrontUpperLeg
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1679
+        width: 319
+        height: 356
+      alignment: 9
+      pivot: {x: .426911831, y: .71612376}
+    - name: Helmet
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1167
+        width: 552
+        height: 881
+      alignment: 9
+      pivot: {x: .432419807, y: .251234978}
+    - name: FrontLowerLeg
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1671
+        width: 314
+        height: 370
+      alignment: 9
+      pivot: {x: .581677079, y: .78356272}
+    - name: BackLowerLeg
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1673
+        width: 314
+        height: 370
+      alignment: 9
+      pivot: {x: .618803203, y: .815069735}
+    - name: FrontLowerArm
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1197
+        width: 707
+        height: 332
+      alignment: 9
+      pivot: {x: .133949354, y: .464887142}
+    - name: BackUpperArm
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1266
+        width: 712
+        height: 395
+      alignment: 9
+      pivot: {x: .23148337, y: .494098276}
+    - name: FrontUpperArm
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 469
+        width: 498
+        height: 588
+      alignment: 9
+      pivot: {x: .627959311, y: .678267896}
+    - name: Torso
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 367
+        width: 828
+        height: 794
+      alignment: 9
+      pivot: {x: .604185998, y: .0595382974}
+    - name: Abs
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 865
+        width: 514
+        height: 404
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Pelvis
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 512
+        width: 509
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BackUpperLeg
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 321
+        height: 356
+      alignment: 9
+      pivot: {x: .366497964, y: .831036627}
+    - name: BackFist
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 33
+        width: 332
+        height: 274
+      alignment: 9
+      pivot: {x: .183981836, y: .687202156}
+    - name: BackLowerArm
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 5
+        width: 519
+        height: 350
+      alignment: 9
+      pivot: {x: .194522455, y: .486677468}
+    - name: FrontFoot
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 271
+        width: 448
+        height: 238
+      alignment: 9
+      pivot: {x: .251292914, y: .671056807}
+    - name: BackFoot
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 19
+        width: 452
+        height: 238
+      alignment: 9
+      pivot: {x: .248754457, y: .662053645}
+  spritePackingTag: 
+  userData: 
