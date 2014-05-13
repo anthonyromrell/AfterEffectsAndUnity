@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 735487239b55ca145a92afaa030ea733
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1297
+        width: 450
+        height: 708
+      alignment: 9
+      pivot: {x: .909646988, y: .286582977}
+    - name: Belly
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1671
+        width: 687
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Tail1
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1535
+        width: 479
+        height: 492
+      alignment: 9
+      pivot: {x: .20758681, y: .738524675}
+    - name: Tail3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1297
+        width: 314
+        height: 255
+      alignment: 9
+      pivot: {x: .522994876, y: .880167186}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 789
+        width: 680
+        height: 631
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Jaw
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 768
+        width: 640
+        height: 519
+      alignment: 9
+      pivot: {x: .864080131, y: .551103234}
+    - name: Tail2
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 795
+        width: 402
+        height: 382
+      alignment: 9
+      pivot: {x: .230512023, y: .790539145}
+    - name: BackClaw
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 365
+        width: 876
+        height: 398
+      alignment: 9
+      pivot: {x: .867468238, y: .579196632}
+    - name: BackLowerArm
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 549
+        width: 348
+        height: 190
+      alignment: 9
+      pivot: {x: .757221699, y: .540557921}
+    - name: FrontUpperArm
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 216
+        width: 224
+        height: 488
+      alignment: 9
+      pivot: {x: .602351069, y: .755052924}
+    - name: TailTip
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 513
+        width: 449
+        height: 271
+      alignment: 9
+      pivot: {x: .902285278, y: .764009476}
+    - name: Claw
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 29
+        width: 876
+        height: 332
+      alignment: 9
+      pivot: {x: .870453954, y: .669170558}
+    - name: FrontLowerArm
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 309
+        width: 350
+        height: 188
+      alignment: 9
+      pivot: {x: .757221699, y: .540557861}
+    - name: BackUpperArm
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 15
+        width: 224
+        height: 482
+      alignment: 9
+      pivot: {x: .602351129, y: .755052924}
+    - name: Tail4
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 53
+        width: 240
+        height: 321
+      alignment: 9
+      pivot: {x: .682370007, y: .876875937}
+    - name: ClawBlade
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 7
+        width: 504
+        height: 178
+      alignment: 9
+      pivot: {x: .967996001, y: .224114597}
+    - name: GunDoor
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1525
+        width: 358
+        height: 68
+      alignment: 9
+      pivot: {x: 1.03690755, y: .268069983}
+  spritePackingTag: 
+  userData: 
