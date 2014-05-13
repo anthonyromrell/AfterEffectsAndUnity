@@ -7,23 +7,22 @@ public class EnemyFiringStateMachine : MonoBehaviour {
 	
 	void OnTriggerEnter(Collider _c) {//runs when colliding with a trigger component of a game object
 		if (_c.gameObject.tag == "Player") { //Game objects can have custom tags that can be tested for as strings
-			ChangeState("Arm", true); //Custom function changes the animators state
-			ChangeState("Disarm", false); //Custom function changes the animators state
+			ChangeState("Armed", true); //Custom function changes the animators state
+			//ChangeState("Disarm", false); //Custom function changes the animators state
 		} 
 	}
 	
 	void OnTriggerStay (Collider _c) {
 		if (_c.gameObject.tag == "Player") { 
+			ChangeState("Armed", true); 
 			ChangeState("Fire", true); 
-			ChangeState("Arm", true); 
 		}
 	} 
 	
 	void OnTriggerExit(Collider _c) {
 		if (_c.gameObject.tag == "Player") { 
-			ChangeState("Disarm", true);
+			ChangeState("Armed", false);
 			ChangeState("Fire", false);
-			ChangeState("Arm", false);
 		} 
 	}
 	
