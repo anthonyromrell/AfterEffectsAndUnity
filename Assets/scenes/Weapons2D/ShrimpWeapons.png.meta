@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 8e383de694ad840f78e18d0be8bc1d22
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Missile
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 857
+        width: 478
+        height: 158
+      alignment: 9
+      pivot: {x: .0427695476, y: .48643899}
+    - name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 810
+        width: 98
+        height: 28
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: SonicExplosion
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 350
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Plasma_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 822
+        height: 72
+      alignment: 9
+      pivot: {x: .949999988, y: .540000021}
+    - name: Plasma_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 822
+        height: 72
+      alignment: 9
+      pivot: {x: .949999988, y: .5}
+    - name: Plasma_04
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 94
+        width: 611
+        height: 72
+      alignment: 9
+      pivot: {x: .935000002, y: .5}
+    - name: Plasma_01
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 22
+        width: 111
+        height: 72
+      alignment: 9
+      pivot: {x: .639999986, y: .519999981}
+    - name: Plasma_02
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 22
+        width: 233
+        height: 72
+      alignment: 9
+      pivot: {x: .842932463, y: .515630424}
+    - name: Plasma_03
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 22
+        width: 346
+        height: 72
+      alignment: 9
+      pivot: {x: .883806467, y: .515630424}
+    - name: StandardExplosion
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 539
+        width: 470
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MuzzleFlash
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 328
+        width: 289
+        height: 204
+      alignment: 9
+      pivot: {x: .285601646, y: .5}
+  spritePackingTag: 
+  userData: 
