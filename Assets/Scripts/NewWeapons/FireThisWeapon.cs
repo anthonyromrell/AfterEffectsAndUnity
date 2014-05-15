@@ -6,7 +6,7 @@ public class FireThisWeapon : MonoBehaviour {
 
 	public static Action FireCurrentWeapon;
 
-	void OnMouseUp () {
+	void OnMouseDown () {
 		if(FireCurrentWeapon != null)
 			FireCurrentWeapon();
 	}

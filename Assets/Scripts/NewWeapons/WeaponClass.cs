@@ -39,7 +39,7 @@ public class WeaponClass : MonoBehaviour {
 	}
 
 	public void FireAmmo () {
-		if(Time.time > activationTime) {//checks if time is greater than the activation time var
+		if(Time.time >= activationTime) {//checks if time is greater than the activation time var
 				activationTime = Time.time + nextActivate;//adds the nextActive var to time
 			if(avaliableAmmo.Count-1 >= currentAmmo) {
 				avaliableAmmo[currentAmmo].OnActivateAmmo(this.transform.position, Vector3.right, 0, ammoSpeed);
