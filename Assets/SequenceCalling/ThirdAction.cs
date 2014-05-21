@@ -10,10 +10,10 @@ public class ThirdAction : MonoBehaviour
 
 	void OnEnable () 
 	{
-		SecondAction.mySecondAction += ThirdFunction;
+		//EventListener.mySecondAction += RunAnim;
 	}
 	
-	void ThirdFunction () 
+	void RunAnim () 
 	{
 		myAnimator.SetBool("ifCalled", true);
 	}
